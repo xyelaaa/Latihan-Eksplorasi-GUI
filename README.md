@@ -10,5 +10,5 @@ Program Java Swing untuk menghitung potongan harga dan harga akhir setelah disko
 5. **Event Listener**: `ActionListener` (interface, tombol Hitung) dan `MouseAdapter` (adapter class, tombol Reset).
 
 ## Screenshot
-![Tampilan awal](screenshot1.png)
-![Hasil perhitungan](screenshot2.png)
+![Tampilan awal](Screenshot1.png)
+![Hasil perhitungan](Screenshot2.png)
