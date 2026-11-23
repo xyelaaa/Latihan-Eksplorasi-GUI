@@ -1,6 +1,6 @@
 # Kalkulator Diskon
 
-Program Java Swing untuk menghitung potongan harga dan harga akhir setelah diskon.
+Latihan eksplorasi GUI Java untuk menghitung potongan harga dan harga akhir setelah diskon.
 
 ## Komponen GUI yang Digunakan
 1. **Top-level Container**: `JFrame`, jendela utama aplikasi.
