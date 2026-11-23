@@ -10,5 +10,5 @@ Latihan eksplorasi GUI Java untuk menghitung potongan harga dan harga akhir sete
 5. **Event Listener**: `ActionListener` (interface, tombol Hitung) dan `MouseAdapter` (adapter class, tombol Reset).
 
 ## Screenshot
-Screenshot1.png
+![Tampilan Awal]Screenshot1.png
 ![Hasil perhitungan](Screenshot2.png)
